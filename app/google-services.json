@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "203510801470",
+    "firebase_url": "https://iotassignment-9f167.firebaseio.com",
+    "project_id": "iotassignment-9f167",
+    "storage_bucket": "iotassignment-9f167.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203510801470:android:7d4db26eabc53f056a5d6f",
+        "android_client_info": {
+          "package_name": "com.example.plantwateringsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203510801470-73cj0b9i62ci6uresj6pq499q2m734fv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.plantwateringsystem",
+            "certificate_hash": "e4fe4e08fcd9ab5e3ce0e87cc02875e82fdc675a"
+          }
+        },
+        {
+          "client_id": "203510801470-21h2r0qj1mue74ph0nodubh1fgcc7uei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY4moQ4UZCwLtIG92OZeRgcuGopcaCqoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203510801470-21h2r0qj1mue74ph0nodubh1fgcc7uei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
