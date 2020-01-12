@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
         var database:DatabaseReference = FirebaseDatabase.getInstance().getReference("testIOT")
         var data:DatabaseReference = FirebaseDatabase.getInstance().getReference("Moisture level")
         var base:DatabaseReference = FirebaseDatabase.getInstance().getReference("Water level")
-
+//
         btn_On.setOnClickListener {
             database.child("Switch").setValue(1)
         }
